@@ -4,7 +4,7 @@ Amazing Bricks game on JAVASCRIPT using the canvas framework
 
 Introduction:
 
-Thsi JAVASCRIPT Project(Game) is based on using the Canvas framework.
+This JAVASCRIPT Project(Game) is based on using the Canvas framework.
 
 
 Problem Description:
@@ -21,7 +21,7 @@ Game Description:
     displayed, otherwise game can be played forever.
 
 
-Conclusion:
+
 
 Sukhamjot Singh(IMT2019085)
 IIIT BANGALORE
